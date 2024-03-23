@@ -1,5 +1,7 @@
 # README
 
+Following Ruby on Rails 7 Fundamentals from Pluralsight, https://app.pluralsight.com/library/courses/ruby-rails-7-fundamentals/table-of-contents
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
